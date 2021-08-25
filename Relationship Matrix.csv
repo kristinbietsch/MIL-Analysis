@@ -1,0 +1,145 @@
+hv101,Index,famhv101,OtherRelative,Relationship
+1,Head,1,Head,Self
+1,Head,2,Wife or Husband,Spouse
+1,Head,3,Son or Daughter,Parent
+1,Head,4,SIL or DIL,PIL
+1,Head,5,Grandchild,Grandparent
+1,Head,6,Parent,Child
+1,Head,7,PIL,SIL or DIL
+1,Head,8,Sibling,Sibling
+1,Head,9,Other Relative,Other
+1,Head,10,adopted child,Other
+1,Head,11,not related,Other
+1,Head,98,DK,Other
+2,Wife or Husband,1,Head,Spouse
+2,Wife or Husband,2,Wife or Husband,Self
+2,Wife or Husband,3,Son or Daughter,Parent
+2,Wife or Husband,4,SIL or DIL,PIL
+2,Wife or Husband,5,Grandchild,Grandparent
+2,Wife or Husband,6,Parent,SIL or DIL
+2,Wife or Husband,7,PIL,Child
+2,Wife or Husband,8,Sibling,Brother or sister inlaw
+2,Wife or Husband,9,Other Relative,Other
+2,Wife or Husband,10,adopted child,Other
+2,Wife or Husband,11,not related,Other
+2,Wife or Husband,98,DK,Other
+3,Son or Daughter,1,Head,Child
+3,Son or Daughter,2,Wife or Husband,Child
+3,Son or Daughter,3,Son or Daughter,Sibling
+3,Son or Daughter,4,SIL or DIL,Spouse or SisterIL or BIL
+3,Son or Daughter,5,Grandchild,Parent or Aunt/Uncle
+3,Son or Daughter,6,Parent,Grandchild
+3,Son or Daughter,7,PIL,Grandchild
+3,Son or Daughter,8,Sibling,Niece or Nephew
+3,Son or Daughter,9,Other Relative,Other
+3,Son or Daughter,10,adopted child,Other
+3,Son or Daughter,11,not related,Other
+3,Son or Daughter,98,DK,Other
+4,SIL or DIL,1,Head,SIL or DIL
+4,SIL or DIL,2,Wife or Husband,SIL or DIL
+4,SIL or DIL,3,Son or Daughter,Spouse or SisterIL or BIL
+4,SIL or DIL,4,SIL or DIL,SisterIL or BIL
+4,SIL or DIL,5,Grandchild,Child or neice or nephew
+4,SIL or DIL,6,Parent,Grand child in law
+4,SIL or DIL,7,PIL,Grand child in law
+4,SIL or DIL,8,Sibling,Nephew or Niece in law
+4,SIL or DIL,9,Other Relative,Other
+4,SIL or DIL,10,adopted child,Other
+4,SIL or DIL,11,not related,Other
+4,SIL or DIL,98,DK,Other
+5,Grandchild,1,Head,Grandchild
+5,Grandchild,2,Wife or Husband,Grandchild
+5,Grandchild,3,Son or Daughter,Parent or Aunt/Uncle
+5,Grandchild,4,SIL or DIL,Parent or Aunt/Uncle
+5,Grandchild,5,Grandchild,Sibling or Cousin
+5,Grandchild,6,Parent,Great grandchild
+5,Grandchild,7,PIL,Great grandchild
+5,Grandchild,8,Sibling,Great neice or nephew
+5,Grandchild,9,Other Relative,Other
+5,Grandchild,10,adopted child,Other
+5,Grandchild,11,not related,Other
+5,Grandchild,98,DK,Other
+6,Parent,1,Head,Parent
+6,Parent,2,Wife or Husband,PIL
+6,Parent,3,Son or Daughter,Grandparent
+6,Parent,4,SIL or DIL,Grandparent In Law
+6,Parent,5,Grandchild,Great grandchild
+6,Parent,6,Parent,Spouse
+6,Parent,7,PIL,In law (parents of married children)
+6,Parent,8,Sibling,Parent
+6,Parent,9,Other Relative,Other
+6,Parent,10,adopted child,Other
+6,Parent,11,not related,Other
+6,Parent,98,DK,Other
+7,PIL,1,Head,PIL
+7,PIL,2,Wife or Husband,Parent
+7,PIL,3,Son or Daughter,Grandparent
+7,PIL,4,SIL or DIL,Grandparent In Law
+7,PIL,5,Grandchild,Great Grandparent
+7,PIL,6,Parent,In law (parents of married children)
+7,PIL,7,PIL,Spouse or Both Parents in Law
+7,PIL,8,Sibling,Other In law
+7,PIL,9,Other Relative,Other
+7,PIL,10,adopted child,Other
+7,PIL,11,not related,Other
+7,PIL,98,DK,Other
+8,Sibling,1,Head,Sibling
+8,Sibling,2,Wife or Husband,SisterIL or BIL
+8,Sibling,3,Son or Daughter,Aunt or Uncle
+8,Sibling,4,SIL or DIL,Aunt or Uncle In Law
+8,Sibling,5,Grandchild,Great Aunt or Uncle
+8,Sibling,6,Parent,Child
+8,Sibling,7,PIL,Other In law
+8,Sibling,8,Sibling,Sibling
+8,Sibling,9,Other Relative,Other
+8,Sibling,10,adopted child,Other
+8,Sibling,11,not related,Other
+8,Sibling,98,DK,Other
+9,Other Relative,1,Head,Other
+9,Other Relative,2,Wife or Husband,Other
+9,Other Relative,3,Son or Daughter,Other
+9,Other Relative,4,SIL or DIL,Other
+9,Other Relative,5,Grandchild,Other
+9,Other Relative,6,Parent,Other
+9,Other Relative,7,PIL,Other
+9,Other Relative,8,Sibling,Other
+9,Other Relative,9,Other Relative,Other
+9,Other Relative,10,adopted child,Other
+9,Other Relative,11,not related,Other
+9,Other Relative,98,DK,Other
+10,adopted child,1,Head,Other
+10,adopted child,2,Wife or Husband,Other
+10,adopted child,3,Son or Daughter,Other
+10,adopted child,4,SIL or DIL,Other
+10,adopted child,5,Grandchild,Other
+10,adopted child,6,Parent,Other
+10,adopted child,7,PIL,Other
+10,adopted child,8,Sibling,Other
+10,adopted child,9,Other Relative,Other
+10,adopted child,10,adopted child,Other
+10,adopted child,11,not related,Other
+10,adopted child,98,DK,Other
+11,not related,1,Head,Other
+11,not related,2,Wife or Husband,Other
+11,not related,3,Son or Daughter,Other
+11,not related,4,SIL or DIL,Other
+11,not related,5,Grandchild,Other
+11,not related,6,Parent,Other
+11,not related,7,PIL,Other
+11,not related,8,Sibling,Other
+11,not related,9,Other Relative,Other
+11,not related,10,adopted child,Other
+11,not related,11,not related,Other
+11,not related,98,DK,Other
+98,DK,1,Head,Other
+98,DK,2,Wife or Husband,Other
+98,DK,3,Son or Daughter,Other
+98,DK,4,SIL or DIL,Other
+98,DK,5,Grandchild,Other
+98,DK,6,Parent,Other
+98,DK,7,PIL,Other
+98,DK,8,Sibling,Other
+98,DK,9,Other Relative,Other
+98,DK,10,adopted child,Other
+98,DK,11,not related,Other
+98,DK,98,DK,Other
