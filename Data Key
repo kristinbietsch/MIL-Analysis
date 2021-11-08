@@ -1,0 +1,12 @@
+Data Key
+
+Alpha2: ISO Alpha 2 codes are 2 letter country codes as defined by the International Organization for Standardization.  A full list of ISO codes are available at https://www.iso.org/obp/ui/#search
+Alpha3: ISO Alpha 3 codes are 3 letter country codes as defined by the International Organization for Standardization.  A full list of ISO codes are available at https://www.iso.org/obp/ui/#search
+API_ID: Identification of a Demographic and Health Survey in their API.  A full list of IDs can be found at https://api.dhsprogram.com/rest/dhs/surveys?returnFields=SurveyId,SurveyYearLabel,SurveyType,CountryName&f=html
+API: Application Programming Interface
+DHS: Demographic and Health Survey
+DHS Variables: Many DHS variables are used in this project, for a complete list of DHS indicators, see https://www.dhsprogram.com/pubs/pdf/DHSG4/Recode7_DHS_10Sep2018_DHSG4.pdf
+IRfile: Name of the Individual Recode file from DHS
+ISONum: ISO Numeric are three-digit country codes as defined by the International Organization for Standardization.  A full list of ISO codes are available at https://www.iso.org/obp/ui/#search
+ISOAlph: ISO Alpha 3 codes are 3 letter country codes as defined by the International Organization for Standardization.  A full list of ISO codes are available at https://www.iso.org/obp/ui/#search
+SDG: Sustainable Development Goal regions, as defined by the United Nations
